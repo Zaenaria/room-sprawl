@@ -7,4 +7,6 @@ If you're trying to get out there and contribute to some open source projects bu
 # The game!
 The project consists of a very simple little exploration game, called Room Sprawl. The player moves from room to room, sometimes picking up items and using them to unlock other rooms. 
 
+Think a simple Zork type exploration game with buttons instead of text.
+
 Have a look at [CONTRIBUTING.md](CONTRIBUTING.md) and [HOW-TO-PLAY.md](HOW-TO-PLAY.md) to get started.
