@@ -5,7 +5,7 @@
 
 html
 {
-     background-image: url("./background.jpg");
+     background-image: url("./paperBackground.jpg");
 	 background-repeat: no-repeat;
 	 background-size: 100%;
 }
@@ -75,11 +75,18 @@ canvas
 	position: absolute;
 	width: 50px;
 	height: 50px;
+	text-decoration: none;
+	background-color: #556F7A;
+	border: none;
+	text-align: center;
+	font-size: 16px;
 }
 
 .btn_nav:enabled
 {
 	cursor: pointer;
+	background-color: #92A3AA;
+	box-shadow: 0, 5px, 10px, #273338;
 }
 
 .btn_lock
@@ -96,11 +103,18 @@ canvas
 	position: absolute;
 	min-width: 50px;
 	height: 50px;
+	text-decoration: none;
+	background-color: #556F7A;
+	border: none;
+	text-align: center;
+	font-size: 16px;
 }
 
 #btn_item:enabled
 {
 	cursor: pointer;
+	background-color: #92A3AA;
+	box-shadow: 0, 5px, 10px, #273338;
 }
 
 .hud_row
